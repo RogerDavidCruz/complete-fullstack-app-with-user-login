@@ -15,7 +15,7 @@
     "mongoose": "^5.13.20",
     "morgan": "^1.9.1",
     "mpath": ">=0.5.1",
-    "nodemon": "^1.19.1",
+    "nodemon": "^3.1.4",
     "passport": "~0.3.2",
     "passport-facebook": "~2.1.1",
     "passport-google-oauth": "~1.0.0",
